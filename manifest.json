@@ -1,0 +1,39 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/game/game.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/res/res.js",
+		"promise/bin/promise.js",
+		"libs/modules/h5uploader/h5uploader.js"
+	],
+	"game": [
+		"bin-debug/extend/Tool.js",
+		"bin-debug/Main.js",
+		"bin-debug/config/Util.js",
+		"bin-debug/core/EM.js",
+		"bin-debug/core/Events.js",
+		"bin-debug/core/net/GetExp.js",
+		"bin-debug/core/net/PostExp.js",
+		"bin-debug/extend/DictBitmap.js",
+		"bin-debug/extend/DictSprite.js",
+		"bin-debug/extend/EFT.js",
+		"bin-debug/extend/Head.js",
+		"bin-debug/extend/Shake.js",
+		"bin-debug/extend/SheetFactory.js",
+		"bin-debug/config/Data.js",
+		"bin-debug/ui/LoadingUI.js",
+		"bin-debug/ui/Msg.js",
+		"bin-debug/ui/Page.js",
+		"bin-debug/ui/Share.js",
+		"bin-debug/ui/elements/Cloud.js",
+		"bin-debug/ui/elements/Leaf.js",
+		"bin-debug/ui/elements/Leaf2.js",
+		"bin-debug/ui/elements/Meteor.js",
+		"bin-debug/ui/elements/Star.js",
+		"bin-debug/ui/global/BgSound.js",
+		"bin-debug/ui/global/Msg.js",
+		"bin-debug/ui/global/Wait.js"
+	]
+}
